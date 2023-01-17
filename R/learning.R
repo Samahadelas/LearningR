@@ -1,4 +1,7 @@
-Example of a conflict
+
+
+#when a conflict happens
+
 
 # R basics ----------------------------------------------------------------
 
