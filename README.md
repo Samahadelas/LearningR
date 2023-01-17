@@ -1,4 +1,7 @@
 Ahmad
+
+Adel
+>>>>>>> 44312032fdbaf5c0f7bafc0e88268d47b57423a2
 Samah Abousharieha
 blahblah
 taking a course in R programming
