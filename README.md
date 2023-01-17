@@ -1,4 +1,5 @@
 Samah Abousharieha
+taking a course in R programming
 TODO: Add more to the title of your project here
 
 # LearningR:
